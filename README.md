@@ -1,4 +1,4 @@
-**Small Enterprise Network**
+# Small Enterprise Network
 
 ## 1. Tổng quan dự án
 
@@ -18,6 +18,7 @@ Dự án này mô phỏng một hạ tầng mạng doanh nghiệp quy mô nhỏ 
 
 ## 2. Sơ đồ mạng
 
+```text
                                 [ Internet Server - 8.8.8.8 ]
                                         |
                                     [ R2 - ISP ] 
